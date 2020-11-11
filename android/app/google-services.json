@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "374049154710",
+    "firebase_url": "https://aion-auth-task.firebaseio.com",
+    "project_id": "aion-auth-task",
+    "storage_bucket": "aion-auth-task.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374049154710:android:61eb355220c89ffe8644b7",
+        "android_client_info": {
+          "package_name": "com.geekflow.aion_auth_firebase_task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374049154710-ontaoul49a6bar0sue8b9ghn83chrgvn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAN1ian9UoL4mAow8TGipuc-PT_gMzfBgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374049154710-ontaoul49a6bar0sue8b9ghn83chrgvn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
