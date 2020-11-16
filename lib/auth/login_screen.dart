@@ -92,7 +92,7 @@ class _LoginPageState extends State<LoginPage> {
                                 context,
                                 MaterialPageRoute(
                                   builder: (context) {
-                                    return HomePage();
+                                    return DataInputPage();
                                   },
                                 ),
                               );
@@ -120,7 +120,7 @@ class _LoginPageState extends State<LoginPage> {
                     ),
                     SizedBox(
                       height: 35,
-                      width: 90,
+                      width: 100,
                       child: MaterialButton(
                         child: Text(
                           'Register',

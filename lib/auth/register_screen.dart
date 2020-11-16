@@ -66,7 +66,7 @@ class _RegisterPageState extends State<RegisterPage> {
                     ),
                     SizedBox(
                       height: 35,
-                      width: 90,
+                      width: 100,
                       child: MaterialButton(
                         child: Text(
                           'Register',
@@ -91,7 +91,7 @@ class _RegisterPageState extends State<RegisterPage> {
                                 context,
                                 MaterialPageRoute(
                                   builder: (context) {
-                                    return HomePage();
+                                    return DataInputPage();
                                   },
                                 ),
                               );
